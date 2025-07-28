@@ -6,3 +6,4 @@ result=$((a - b))
 
 echo "Subtraction of $a - $b = $result"
 echo " Subtraction"
+echo "hi"
